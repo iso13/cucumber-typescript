@@ -1,0 +1,243 @@
+{
+  "setQuarters": {
+    "primaryEffectiveQuarter": "Q2 2019",
+    "alternateEffectiveQuarter": "",
+    "currentEffectiveQuarter": ""
+  },
+  "setExpirationDates": [
+    {
+      "primaryExpiration": "",
+      "alternateExpiration": ""
+    }
+  ],
+  "exchanges": [
+    {
+      "exchangeName": "Exchange I",
+      "defaultRatingBands": [
+        {
+          "default": false,
+          "productLine": "Medical",
+          "bands": {
+            "primaryBand": "",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Life",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Disability",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ],
+      "medicalCarrierData": [
+        {
+          "carrierName": "Blue Shield of California",
+          "bandValues": {
+            "primaryBand": "FA",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Kaiser Permanente",
+          "bandValues": {
+            "primaryBand": "FA",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Aetna",
+          "bandValues": {
+            "primaryBand": "AE",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Florida Blue",
+          "bandValues": {
+            "primaryBand": "FA",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Tufts",
+          "bandValues": {
+            "primaryBand": "N",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Kaiser CO/GA",
+          "bandValues": {
+            "primaryBand": "FA",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "carrierName": "Kaiser HI",
+          "bandValues": {
+            "primaryBand": "N",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ],
+      "lifeCarrierData": [
+        {
+          "carrierName": "MetLife",
+          "bandValues": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ]
+    },
+    {
+      "exchangeName": "Exchange II",
+      "defaultRatingBands": [
+        {
+          "default": true,
+          "productLine": "Medical",
+          "bands": {
+            "primaryBand": "5A",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Life",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Disability",
+          "bands": {
+            "primaryBand": "2",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ]
+    },
+    {
+      "exchangeName": "Exchange III",
+      "defaultRatingBands": [
+        {
+          "default": true,
+          "productLine": "Medical",
+          "bands": {
+            "primaryBand": "5A",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Life",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Disability",
+          "bands": {
+            "primaryBand": "3",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ]
+    },
+    {
+      "exchangeName": "Exchange IV",
+      "defaultRatingBands": [
+        {
+          "default": true,
+          "productLine": "Medical",
+          "bands": {
+            "primaryBand": "4KA",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Life",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Disability",
+          "bands": {
+            "primaryBand": "3",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ]
+    },
+    {
+      "exchangeName": "Exchange XI",
+      "defaultRatingBands": [
+        {
+          "default": false,
+          "productLine": "Medical",
+          "bands": {
+            "primaryBand": "",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Life",
+          "bands": {
+            "primaryBand": "1",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        },
+        {
+          "default": true,
+          "productLine": "Disability",
+          "bands": {
+            "primaryBand": "3",
+            "alternateBand": "",
+            "currentCoverageBand": ""
+          }
+        }
+      ]
+    }
+  ]
+}

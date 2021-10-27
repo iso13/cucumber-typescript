@@ -1,0 +1,9 @@
+{
+  "name": "LTD Quote",
+  "productLine": "Long-Term Disability",
+  "plans": [
+    {
+      "name": "LTD Plan 1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "productLines": ["Select All Products"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product declined to quote due to incomplete submission",
+    "allProducts": [
+      "Dental",
+      "Vision",
+      "Group Term Life",
+      "Critical Illness",
+      "Short-Term Disability",
+      "Long-Term Disability",
+      "Voluntary Term Life",
+      "Accident"
+    ]
+  }
+]

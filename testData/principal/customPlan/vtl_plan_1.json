@@ -1,0 +1,21 @@
+{
+  "benefits": [
+    {
+      "slug": "add_benefit",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "24%"
+    }
+  ],
+  "product_line": "Voluntary Term Life",
+  "plan_name": "Valid VTL plan"
+}

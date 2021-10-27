@@ -1,0 +1,14 @@
+{
+  "name": "zzLLH - Group CA 3571 14 LTD",
+  "postal_code": "94040",
+  "sic": "3571",
+  "number_of_eligible_ees": "14",
+  "quote_lines": {
+    "4": {
+      "name": "Critical Illness"
+    },
+    "11": {
+      "name": "Accident"
+    }
+  }
+}

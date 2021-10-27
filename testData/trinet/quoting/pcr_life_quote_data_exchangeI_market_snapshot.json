@@ -1,0 +1,11 @@
+{
+  "quoteType": "pcr",
+  "benefitType": "Life",
+  "setFilters": "true",
+  "exchange": "Exchange I",
+  "plans": [
+    {
+      "name": "Basic Life & AD&D $20K**25824"
+    }
+  ]
+}

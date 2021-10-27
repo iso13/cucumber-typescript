@@ -1,0 +1,13 @@
+{
+  "quoteType": "pcr",
+  "benefitType": "Life",
+  "setFilters": "true",
+  "exchange": "Exchange IV",
+  "package_name": "Aetna/Kaiser",
+  "line_name": "Medical",
+  "plans": [
+    {
+      "name": "Basic Life & AD&D 1 x Salary to 1.5 Million**27029"
+    }
+  ]
+}

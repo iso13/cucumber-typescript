@@ -1,0 +1,46 @@
+[
+  {
+    "_firstName": "First_1",
+    "_lastName": "Last_1",
+    "_gender": "M",
+    "_dateOfBirth": "12/31/1980",
+    "_zip": "10001",
+    "_medicalTier": "Employee + Spouse",
+    "_dentalTier": "Employee + Spouse",
+    "_visionTier": "Employee + Spouse",
+    "_salary": 70000
+  },
+  {
+    "_firstName": "First_2",
+    "_lastName": "Last_2",
+    "_gender": "F",
+    "_dateOfBirth": "01/01/1990",
+    "_zip": "94103",
+    "_medicalTier": "Employee + Child",
+    "_dentalTier": "Employee + Child",
+    "_visionTier": "Employee + Child",
+    "_salary": 45
+  },
+  {
+    "_firstName": "First_3",
+    "_lastName": "Last_3",
+    "_gender": "M",
+    "_dateOfBirth": "12/31/1980",
+    "_zip": "10001",
+    "_medicalTier": "Family",
+    "_dentalTier": "Family",
+    "_visionTier": "Family",
+    "_salary": 120000
+  },
+  {
+    "_firstName": "First_4",
+    "_lastName": "Last_4",
+    "_gender": "F",
+    "_dateOfBirth": "01/01/1990",
+    "_zip": "94103",
+    "_medicalTier": "Waiving Employee",
+    "_dentalTier": "Waiving Employee",
+    "_visionTier": "Waiving Employee",
+    "_salary": 60
+  }
+]

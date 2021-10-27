@@ -1,0 +1,262 @@
+{
+  "MCV": {
+    "mcv plan for small group": {
+      "plan_benefits": [
+        {
+          "paramName": {
+            "cellRef": "A6",
+            "expectedValue": "WA Small Group"
+          },
+          "paramValue": {
+            "cellRef": "B6",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A8",
+            "expectedValue": "Plan Name"
+          },
+          "paramValue": {
+            "cellRef": "B8",
+            "expectedValue": "Valid MCV plan",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A9",
+            "expectedValue": "Class"
+          },
+          "paramValue": {
+            "cellRef": "B9",
+            "assertionType": "isNotEmpty"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A10",
+            "expectedValue": "Prior Coverage"
+          },
+          "paramValue": {
+            "cellRef": "B10",
+            "expectedValue": "No Prior Coverage",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A11",
+            "expectedValue": "Voluntary"
+          },
+          "paramValue": {
+            "cellRef": "B11",
+            "expectedValue": "No",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A12",
+            "expectedValue": "Exam Copay"
+          },
+          "paramValue": {
+            "cellRef": "B12",
+            "expectedValue": "$10",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A13",
+            "expectedValue": "Exam Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B13",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A14",
+            "expectedValue": "Materials Copay"
+          },
+          "paramValue": {
+            "cellRef": "B14",
+            "expectedValue": "$25",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A15",
+            "expectedValue": "Lens Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B15",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A16",
+            "expectedValue": "Frames Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B16",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A17",
+            "expectedValue": "Frames Maximum Allowance"
+          },
+          "paramValue": {
+            "cellRef": "B17",
+            "expectedValue": "$150",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A18",
+            "expectedValue": "Contact Maximum Allowance"
+          },
+          "paramValue": {
+            "cellRef": "B18",
+            "expectedValue": "$150",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A19",
+            "expectedValue": "Rate Guarantee"
+          },
+          "paramValue": {
+            "cellRef": "B19",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A20",
+            "expectedValue": "Open Enrollment"
+          },
+          "paramValue": {
+            "cellRef": "B20",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A21",
+            "expectedValue": "Rating Tier"
+          },
+          "paramValue": {
+            "cellRef": "B21",
+            "expectedValue": "4 Tier",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A22",
+            "expectedValue": "Employer Contribution"
+          },
+          "paramValue": {
+            "cellRef": "B22",
+            "expectedValue": "100%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A23",
+            "expectedValue": "Participation Percent"
+          },
+          "paramValue": {
+            "cellRef": "B23",
+            "expectedValue": "100%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A24",
+            "expectedValue": "Commission"
+          },
+          "paramValue": {
+            "cellRef": "B24",
+            "expectedValue": "Flat",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A25",
+            "expectedValue": "Commission Percent"
+          },
+          "paramValue": {
+            "cellRef": "B25",
+            "expectedValue": "5%",
+            "assertionType": "strictEqual"
+          }
+        }
+      ],
+      "calculated_params": [
+        {
+          "paramName": {
+            "cellRef": "A26",
+            "expectedValue": "Employee Only"
+          },
+          "paramValue": {
+            "cellRef": "B26",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A27",
+            "expectedValue": "Employee & Spouse"
+          },
+          "paramValue": {
+            "cellRef": "B27",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A28",
+            "expectedValue": "Employee & Child(ren)"
+          },
+          "paramValue": {
+            "cellRef": "B28",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A29",
+            "expectedValue": "Employee & Family"
+          },
+          "paramValue": {
+            "cellRef": "B29",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "benefits": [
+    {
+      "slug": "24_hour_coverage",
+      "type": "radio",
+      "value": "Off the job"
+    },
+    {
+      "slug": "add",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "wellness",
+      "type": "radio",
+      "value": "$150"
+    },
+    {
+      "slug": "portability",
+      "type": "radio",
+      "value": "3 Years"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Not Included"
+    }
+  ],
+  "product_line": "Accident",
+  "plan_name": "Valid Accident plan"
+}

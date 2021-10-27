@@ -1,0 +1,163 @@
+{
+  "Accident": {
+    "accident plan 1": {
+      "plan_benefits": [
+        {
+          "paramName": {
+            "cellRef": "A7",
+            "expectedValue": "Plan Name"
+          },
+          "paramValue": {
+            "cellRef": "B7",
+            "expectedValue": "Valid Accident plan",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A8",
+            "expectedValue": "Class"
+          },
+          "paramValue": {
+            "cellRef": "B8",
+            "assertionType": "isNotEmpty"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A9",
+            "expectedValue": "Coverage Type"
+          },
+          "paramValue": {
+            "cellRef": "B9",
+            "expectedValue": "Off the job",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A10",
+            "expectedValue": "AD&D Benefit"
+          },
+          "paramValue": {
+            "cellRef": "B10",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A11",
+            "expectedValue": "Wellness Benefit"
+          },
+          "paramValue": {
+            "cellRef": "B11",
+            "expectedValue": "$150",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A12",
+            "expectedValue": "Portability"
+          },
+          "paramValue": {
+            "cellRef": "B12",
+            "expectedValue": "3 Years",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A13",
+            "expectedValue": "Rate Guarantee"
+          },
+          "paramValue": {
+            "cellRef": "B13",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A14",
+            "expectedValue": "Open Enrollment"
+          },
+          "paramValue": {
+            "cellRef": "B14",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A15",
+            "expectedValue": "Rating Tier"
+          },
+          "paramValue": {
+            "cellRef": "B15",
+            "expectedValue": "4 Tier",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A16",
+            "expectedValue": "Commissions"
+          },
+          "paramValue": {
+            "cellRef": "B16",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        }
+      ],
+      "calculated_params": [
+        {
+          "paramName": {
+            "cellRef": "A17",
+            "expectedValue": "Employee Only"
+          },
+          "paramValue": {
+            "cellRef": "B17",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A18",
+            "expectedValue": "Employee & Spouse"
+          },
+          "paramValue": {
+            "cellRef": "B18",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A19",
+            "expectedValue": "Employee & Child(ren)"
+          },
+          "paramValue": {
+            "cellRef": "B19",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A20",
+            "expectedValue": "Employee & Family"
+          },
+          "paramValue": {
+            "cellRef": "B20",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "productLines": ["Select All Products"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product declined to quote due to incomplete submission",
+    "allProducts": ["Critical Illness", "Accident"]
+  }
+]

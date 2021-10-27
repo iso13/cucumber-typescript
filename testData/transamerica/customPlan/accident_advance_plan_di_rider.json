@@ -1,0 +1,12 @@
+{
+  "benefits": [
+    {
+      "slug": "TA_FORM_AODI_IsSelected",
+      "type": "radio",
+      "value": "Yes"
+    }
+  ],
+  "product_line": "Accident Advance",
+  "planViewName": "Accident SFTSTP Slugs",
+  "plan_name": "Valid Accident plan"
+}

@@ -1,0 +1,306 @@
+{
+  "STD": {
+    "std plan voluntary no commission": {
+      "plan_benefits": [
+        {
+          "paramName": {
+            "cellRef": "A7",
+            "expectedValue": "Plan Name"
+          },
+          "paramValue": {
+            "cellRef": "B7",
+            "expectedValue": "Valid std plan voluntary no commission",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A8",
+            "expectedValue": "Class"
+          },
+          "paramValue": {
+            "cellRef": "B8",
+            "assertionType": "isNotEmpty"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A9",
+            "expectedValue": "Voluntary"
+          },
+          "paramValue": {
+            "cellRef": "B9",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A10",
+            "expectedValue": "STD Coverage Type"
+          },
+          "paramValue": {
+            "cellRef": "B10",
+            "expectedValue": "% of Salary",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A11",
+            "expectedValue": "Benefit Percent"
+          },
+          "paramValue": {
+            "cellRef": "B11",
+            "expectedValue": "70%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A12",
+            "expectedValue": "Maximum Benefit"
+          },
+          "paramValue": {
+            "cellRef": "B12",
+            "expectedValue": "$1,500",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A13",
+            "expectedValue": "Minimum Benefit"
+          },
+          "paramValue": {
+            "cellRef": "B13",
+            "expectedValue": "$25",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A14",
+            "expectedValue": "Accident Elimination Period"
+          },
+          "paramValue": {
+            "cellRef": "B14",
+            "expectedValue": "8 Days",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A15",
+            "expectedValue": "Sickness Elimination Period"
+          },
+          "paramValue": {
+            "cellRef": "B15",
+            "expectedValue": "8 Days",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A16",
+            "expectedValue": "Maximum Benefit Period"
+          },
+          "paramValue": {
+            "cellRef": "B16",
+            "expectedValue": "12 Weeks",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A17",
+            "expectedValue": "Salary Continuance Offset"
+          },
+          "paramValue": {
+            "cellRef": "B17",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A18",
+            "expectedValue": "Definition of Disability"
+          },
+          "paramValue": {
+            "cellRef": "B18",
+            "expectedValue": "Residual",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A19",
+            "expectedValue": "Definition of Earnings"
+          },
+          "paramValue": {
+            "cellRef": "B19",
+            "expectedValue": "Base Wage",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A20",
+            "expectedValue": "Work Incentive"
+          },
+          "paramValue": {
+            "cellRef": "B20",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A21",
+            "expectedValue": "Partial Calculation Method"
+          },
+          "paramValue": {
+            "cellRef": "B21",
+            "expectedValue": "Income Loss",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A22",
+            "expectedValue": "Rehabilitation Incentive"
+          },
+          "paramValue": {
+            "cellRef": "B22",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A23",
+            "expectedValue": "Reasonable Accommodation"
+          },
+          "paramValue": {
+            "cellRef": "B23",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A24",
+            "expectedValue": "State Plan Integration"
+          },
+          "paramValue": {
+            "cellRef": "B24",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A25",
+            "expectedValue": "Workers Comp Participation"
+          },
+          "paramValue": {
+            "cellRef": "B25",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A26",
+            "expectedValue": "Pre-existing Conditions"
+          },
+          "paramValue": {
+            "cellRef": "B26",
+            "expectedValue": "3/12",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A27",
+            "expectedValue": "Maternity Coverage"
+          },
+          "paramValue": {
+            "cellRef": "B27",
+            "expectedValue": "Full Maternity",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A28",
+            "expectedValue": "Rate Guarantee"
+          },
+          "paramValue": {
+            "cellRef": "B28",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A29",
+            "expectedValue": "Commission"
+          },
+          "paramValue": {
+            "cellRef": "B29",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        }
+      ],
+      "calculated_params": [
+        {
+          "paramName": {
+            "cellRef": "A30",
+            "expectedValue": "Short-Term Disability Rate (Per $10 of benefit)"
+          },
+          "paramValue": {
+            "cellRef": "B30",
+            "expectedPattern": "\\d{1,2}.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A31",
+            "expectedValue": "Short-Term Disability Total Volume"
+          },
+          "paramValue": {
+            "cellRef": "B31",
+            "expectedValue": "Determined Upon Enrollment",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A32",
+            "expectedValue": "Short-Term Disability Total Lives"
+          },
+          "paramValue": {
+            "cellRef": "B32",
+            "expectedValue": "Determined Upon Enrollment",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A33",
+            "expectedValue": "Total Estimated Monthly Cost"
+          },
+          "paramValue": {
+            "cellRef": "B33",
+            "expectedValue": "Premium Determined Upon Enrollment",
+            "assertionType": "strictEqual"
+          }
+        }
+      ]
+    }
+  }
+}

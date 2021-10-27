@@ -1,0 +1,31 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "benefit_percent",
+      "type": "radio",
+      "value": "50%"
+    },
+    {
+      "slug": "elimination_period",
+      "type": "radio",
+      "value": "180 Day"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "15%"
+    }
+  ],
+  "product_line": "Long-Term Disability",
+  "plan_name": "Valid ltd plan voluntary flat commission"
+}

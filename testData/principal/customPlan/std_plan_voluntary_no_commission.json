@@ -1,0 +1,21 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "Yes"
+    },
+    {
+      "slug": "benefit_period",
+      "type": "radio",
+      "value": "12 Weeks"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Not Included"
+    }
+  ],
+  "product_line": "Short-Term Disability",
+  "plan_name": "Valid std plan voluntary no commission"
+}

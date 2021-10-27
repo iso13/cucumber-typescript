@@ -1,0 +1,9 @@
+{
+  "name": "Vision Quote",
+  "productLine": "Supplemental Life",
+  "plans": [
+    {
+      "name": "Supplemental Life Plan 1"
+    }
+  ]
+}

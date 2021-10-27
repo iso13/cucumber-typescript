@@ -1,0 +1,8 @@
+{
+  "product_line": "Medical",
+  "quote_type": "standard modeling",
+  "carriers": ["UHC", "Anthem"],
+  "package": "UHC Bronze",
+  "benefit_filters": "",
+  "plans": ["plan 1", "plan 2"]
+}

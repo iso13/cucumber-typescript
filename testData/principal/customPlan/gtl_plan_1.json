@@ -1,0 +1,36 @@
+{
+  "benefits": [
+    {
+      "slug": "life_coverage_type",
+      "type": "radio",
+      "value": "Percent of Salary"
+    },
+    {
+      "slug": "percent_of_salary",
+      "type": "radio",
+      "value": "100%"
+    },
+    {
+      "slug": "percent_of_salary_maximum",
+      "type": "radio",
+      "value": "$50,000"
+    },
+    {
+      "slug": "add_benefit",
+      "type": "radio",
+      "value": "Occupational"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "10%"
+    }
+  ],
+  "product_line": "Group Term Life",
+  "plan_name": "Valid GTL plan"
+}

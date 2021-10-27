@@ -1,0 +1,22 @@
+{
+  "broker_selection": true,
+  "broker_name": "automation broker",
+  "default_effective_on": "2018-12-01T00:00:00.000Z",
+  "country": "US",
+  "name": "AXA Group Required Fields Tests",
+  "postal_code": "10001",
+  "city": "New York City",
+  "sic": "0111",
+  "sic_description": "wheat",
+  "medical_region_id": 4,
+  "region": "NY",
+  "county": "New York",
+  "county_code": 85,
+  "quote_lines": {
+    "1": {
+      "name": "Dental",
+      "has_current": false,
+      "effective_on": "2018-12-01T00:00:00.000Z"
+    }
+  }
+}

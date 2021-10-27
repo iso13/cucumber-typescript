@@ -1,0 +1,36 @@
+{
+  "benefits": [
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "No Prior Coverage"
+    },
+    {
+      "slug": "life_coverage_type",
+      "type": "radio",
+      "value": "Percent of Salary"
+    },
+    {
+      "slug": "percent_of_salary_maximum",
+      "type": "range",
+      "value": "$20,000"
+    },
+    {
+      "slug": "waiver_duration",
+      "type": "radio",
+      "value": "N/A"
+    },
+    {
+      "slug": "add_benefit",
+      "type": "radio",
+      "value": "Non Occupational"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Not Included"
+    }
+  ],
+  "product_line": "Group Term Life",
+  "plan_name": "GTL MVP2 plan 2"
+}

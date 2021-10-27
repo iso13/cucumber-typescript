@@ -1,0 +1,31 @@
+{
+  "benefits": [
+    {
+      "slug": "life_coverage_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "flat_life_benefit",
+      "type": "select",
+      "value": "$20,000"
+    },
+    {
+      "slug": "add_benefit",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "10%"
+    }
+  ],
+  "product_line": "Group Term Life",
+  "plan_name": "GTL plan no ADD"
+}

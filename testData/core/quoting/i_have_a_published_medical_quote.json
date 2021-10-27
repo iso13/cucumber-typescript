@@ -1,0 +1,15 @@
+{
+  "name": "Published Medical Quote",
+  "productLine": "Medical",
+  "carriers": ["Aetna"],
+  "package": "",
+  "benefitFilters": {},
+  "plans": [
+    {
+      "name": "HMO Basic Bronze CA $70/115 6000 Ded"
+    },
+    {
+      "name": "Aetna Value Network HMO Gold CA $30/55 0 Ded"
+    }
+  ]
+}

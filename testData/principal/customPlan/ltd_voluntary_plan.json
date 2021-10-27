@@ -1,0 +1,16 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "Yes"
+    },
+    {
+      "slug": "elimination_period",
+      "type": "radio",
+      "value": "90 Day"
+    }
+  ],
+  "product_line": "Long-Term Disability",
+  "plan_name": "Voluntary LTD plan"
+}

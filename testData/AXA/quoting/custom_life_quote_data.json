@@ -1,0 +1,9 @@
+{
+  "name": "Life Quote",
+  "productLine": "Basic Life",
+  "plans": [
+    {
+      "name": "Basic Life Plan 1"
+    }
+  ]
+}

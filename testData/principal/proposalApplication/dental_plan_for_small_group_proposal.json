@@ -1,0 +1,867 @@
+{
+  "Dental": {
+    "dental plan for small group": {
+      "plan_benefits": [
+        {
+          "paramName": {
+            "cellRef": "A6",
+            "expectedValue": "WA Small Group"
+          },
+          "paramValue": {
+            "cellRef": "B6",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A8",
+            "expectedValue": "Plan Name"
+          },
+          "paramValue": {
+            "cellRef": "B8",
+            "expectedValue": "Dental Plan for small group",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A9",
+            "expectedValue": "Class"
+          },
+          "paramValue": {
+            "cellRef": "B9",
+            "assertionType": "isNotEmpty"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A10",
+            "expectedValue": "Voluntary"
+          },
+          "paramValue": {
+            "cellRef": "B10",
+            "expectedValue": "No",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A11",
+            "expectedValue": "Benefit Design Type"
+          },
+          "paramValue": {
+            "cellRef": "B11",
+            "expectedValue": "PPO Dental-Unscheduled/UCR",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A12",
+            "expectedValue": "Prior Coverage"
+          },
+          "paramValue": {
+            "cellRef": "B12",
+            "expectedValue": "Preventive Only",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A13",
+            "expectedValue": "Orthodontia Coverage"
+          },
+          "paramValue": {
+            "cellRef": "B13",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A14",
+            "expectedValue": "DHMO"
+          },
+          "paramValue": {
+            "cellRef": "B14",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A15",
+            "expectedValue": "Deductible/Maximum Definition"
+          },
+          "paramValue": {
+            "cellRef": "B15",
+            "expectedValue": "Calendar Year",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A16",
+            "expectedValue": "Deductible Type"
+          },
+          "paramValue": {
+            "cellRef": "B16",
+            "expectedValue": "Annual",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A17",
+            "expectedValue": "Family Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B17",
+            "expectedValue": "3x",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A18",
+            "expectedValue": "Prevailing Charges/UCR"
+          },
+          "paramValue": {
+            "cellRef": "B18",
+            "expectedValue": "90th",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A19",
+            "expectedValue": "Maximum Accumulation"
+          },
+          "paramValue": {
+            "cellRef": "B19",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A20",
+            "expectedValue": "Preventive Passport"
+          },
+          "paramValue": {
+            "cellRef": "B20",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A21",
+            "expectedValue": "In-network Preventive Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B21",
+            "expectedValue": "$0",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A22",
+            "expectedValue": "In-network Basic Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B22",
+            "expectedValue": "$50",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A23",
+            "expectedValue": "In-network Major Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B23",
+            "expectedValue": "$50",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A24",
+            "expectedValue": "In-network Preventive Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B24",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A25",
+            "expectedValue": "In-network Basic Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B25",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A26",
+            "expectedValue": "In-network Major Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B26",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A27",
+            "expectedValue": "In-network Preventive Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B27",
+            "expectedValue": "100%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A28",
+            "expectedValue": "In-network Basic Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B28",
+            "expectedValue": "80%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A29",
+            "expectedValue": "In-network Major Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B29",
+            "expectedValue": "50%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A30",
+            "expectedValue": "In-network Maximum All Units Except Orthodontia"
+          },
+          "paramValue": {
+            "cellRef": "B30",
+            "expectedValue": "$1,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A31",
+            "expectedValue": "Non-network Preventive Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B31",
+            "expectedValue": "$0",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A32",
+            "expectedValue": "Non-network Basic Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B32",
+            "expectedValue": "$50",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A33",
+            "expectedValue": "Non-network Major Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B33",
+            "expectedValue": "$50",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A34",
+            "expectedValue": "Non-network Preventive Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B34",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A35",
+            "expectedValue": "Non-network Basic Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B35",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A36",
+            "expectedValue": "Non-network Major Combined Deductible"
+          },
+          "paramValue": {
+            "cellRef": "B36",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A37",
+            "expectedValue": "Non-network Preventive Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B37",
+            "expectedValue": "100%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A38",
+            "expectedValue": "Non-network Basic Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B38",
+            "expectedValue": "80%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A39",
+            "expectedValue": "Non-network Major Coinsurance"
+          },
+          "paramValue": {
+            "cellRef": "B39",
+            "expectedValue": "50%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A40",
+            "expectedValue": "Non-network Maximum All Units Except Orthodontia"
+          },
+          "paramValue": {
+            "cellRef": "B40",
+            "expectedValue": "$1,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A41",
+            "expectedValue": "Periodontics-Non-Surgical"
+          },
+          "paramValue": {
+            "cellRef": "B41",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A42",
+            "expectedValue": "Periodontics-Surgical"
+          },
+          "paramValue": {
+            "cellRef": "B42",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A43",
+            "expectedValue": "Oral Surgery-Simple"
+          },
+          "paramValue": {
+            "cellRef": "B43",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A44",
+            "expectedValue": "Oral Surgery-Complex"
+          },
+          "paramValue": {
+            "cellRef": "B44",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A45",
+            "expectedValue": "Endodontics-Simple"
+          },
+          "paramValue": {
+            "cellRef": "B45",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A46",
+            "expectedValue": "Endodontics-Complex"
+          },
+          "paramValue": {
+            "cellRef": "B46",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A47",
+            "expectedValue": "Crowns"
+          },
+          "paramValue": {
+            "cellRef": "B47",
+            "expectedValue": "Unit 3",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A48",
+            "expectedValue": "Crowns - Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B48",
+            "expectedValue": "120 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A49",
+            "expectedValue": "Emergency Exams"
+          },
+          "paramValue": {
+            "cellRef": "B49",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A50",
+            "expectedValue": "Emergency Exams - Applied to Exam Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B50",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A51",
+            "expectedValue": "Prophylaxis - Routine"
+          },
+          "paramValue": {
+            "cellRef": "B51",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A52",
+            "expectedValue": "Prophylaxis - Routine Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B52",
+            "expectedValue": "2 per Calendar Year",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A53",
+            "expectedValue": "Prophylaxis - Periodontal"
+          },
+          "paramValue": {
+            "cellRef": "B53",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A54",
+            "expectedValue": "Prophylaxis - Periodontal Applied to Prophylaxis Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B54",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A55",
+            "expectedValue": "Repairs to Partial Dentures, Bridges, Crowns"
+          },
+          "paramValue": {
+            "cellRef": "B55",
+            "expectedValue": "Unit 3",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A56",
+            "expectedValue": "General Anesthesia"
+          },
+          "paramValue": {
+            "cellRef": "B56",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A57",
+            "expectedValue": "Fluoride"
+          },
+          "paramValue": {
+            "cellRef": "B57",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A58",
+            "expectedValue": "Fluoride-Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B58",
+            "expectedValue": "1 per Calendar Year",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A59",
+            "expectedValue": "Space Maintainers"
+          },
+          "paramValue": {
+            "cellRef": "B59",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A60",
+            "expectedValue": "Harmful Habit Devices"
+          },
+          "paramValue": {
+            "cellRef": "B60",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A61",
+            "expectedValue": "Sealants"
+          },
+          "paramValue": {
+            "cellRef": "B61",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A62",
+            "expectedValue": "Sealants - Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B62",
+            "expectedValue": "1 Per 36 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A63",
+            "expectedValue": "Age Limit - Sealants, Space Maintainers, Harmful Habit Devices and Fluoride"
+          },
+          "paramValue": {
+            "cellRef": "B63",
+            "expectedValue": "14",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A64",
+            "expectedValue": "X-Rays-Bitewings"
+          },
+          "paramValue": {
+            "cellRef": "B64",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A65",
+            "expectedValue": "X-Rays-Bitewings-Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B65",
+            "expectedValue": "1 Per Calendar Year",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A66",
+            "expectedValue": "X-Rays-Full Mouth X-Rays"
+          },
+          "paramValue": {
+            "cellRef": "B66",
+            "expectedValue": "Unit 1",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A67",
+            "expectedValue": "X-Rays-Full Mouth X-Rays-Frequency"
+          },
+          "paramValue": {
+            "cellRef": "B67",
+            "expectedValue": "1 in 60 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A68",
+            "expectedValue": "Composites on Posteriors"
+          },
+          "paramValue": {
+            "cellRef": "B68",
+            "expectedValue": "Unit 2",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A69",
+            "expectedValue": "Occlusal Guards"
+          },
+          "paramValue": {
+            "cellRef": "B69",
+            "expectedValue": "Not Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A70",
+            "expectedValue": "Implants"
+          },
+          "paramValue": {
+            "cellRef": "B70",
+            "expectedValue": "Unit 3",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A71",
+            "expectedValue": "Rate Guarantee"
+          },
+          "paramValue": {
+            "cellRef": "B71",
+            "expectedValue": "12 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A72",
+            "expectedValue": "Open Enrollment"
+          },
+          "paramValue": {
+            "cellRef": "B72",
+            "expectedValue": "Yes",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A73",
+            "expectedValue": "Rating Tier"
+          },
+          "paramValue": {
+            "cellRef": "B73",
+            "expectedValue": "4 Tier",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A74",
+            "expectedValue": "Commission"
+          },
+          "paramValue": {
+            "cellRef": "B74",
+            "expectedValue": "Flat",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A75",
+            "expectedValue": "Commission Percent"
+          },
+          "paramValue": {
+            "cellRef": "B75",
+            "expectedValue": "5%",
+            "assertionType": "strictEqual"
+          }
+        }
+      ],
+      "calculated_params": [
+        {
+          "paramName": {
+            "cellRef": "A76",
+            "expectedValue": "Employee Only"
+          },
+          "paramValue": {
+            "cellRef": "B76",
+            "expectedPattern": "\\d+.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A77",
+            "expectedValue": "Employee & Spouse"
+          },
+          "paramValue": {
+            "cellRef": "B77",
+            "expectedPattern": "\\d+.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A78",
+            "expectedValue": "Employee & Child(ren)"
+          },
+          "paramValue": {
+            "cellRef": "B78",
+            "expectedPattern": "\\d+.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A79",
+            "expectedValue": "Employee & Family"
+          },
+          "paramValue": {
+            "cellRef": "B79",
+            "expectedPattern": "\\d+.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A80",
+            "expectedValue": "Employee Only Enrolled Lives"
+          },
+          "paramValue": {
+            "cellRef": "B80",
+            "expectedPattern": "\\d{1,2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A81",
+            "expectedValue": "Employee + Spouse Enrolled Lives"
+          },
+          "paramValue": {
+            "cellRef": "B81",
+            "expectedPattern": "\\d{1,2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A82",
+            "expectedValue": "Employee + Child(ren) Enrolled Lives"
+          },
+          "paramValue": {
+            "cellRef": "B82",
+            "expectedPattern": "\\d{1,2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A83",
+            "expectedValue": "Employee + Family Enrolled Lives"
+          },
+          "paramValue": {
+            "cellRef": "B83",
+            "expectedPattern": "\\d{1,2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A84",
+            "expectedValue": "Total Estimated Monthly Cost"
+          },
+          "paramValue": {
+            "cellRef": "B84",
+            "expectedPattern": "\\$(\\d{1,3},)*\\d{3}.\\d{2}",
+            "assertionType": "match"
+          }
+        }
+      ]
+    }
+  }
+}

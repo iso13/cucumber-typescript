@@ -1,0 +1,17 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "tsconfigRootDir": "./",
+    "project": "./tsconfig.json",
+    "extraFileExtensions": [".json"],
+    "createDefaultProgram": true
+  },
+  "plugins": ["prettier"],
+  "extends": ["plugin:prettier/recommended"],
+  "rules": {
+    "prettier/prettier": "error",
+    "max-len": ["warn", {"code": 120, "ignoreTemplateLiterals": true, "ignoreStrings": true}]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "STD Quote",
+  "productLine": "Short-Term Disability",
+  "plans": [
+    {
+      "name": "STD Plan 1"
+    }
+  ]
+}

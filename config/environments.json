@@ -1,0 +1,49 @@
+{
+  "axa": {
+    "localhost": "http://localhost:8080",
+    "dev": "https://qp-dev.axa.com",
+    "uat": "https://qp-uat.axa.com",
+    "test": "https://qp-test.axa.com"
+  },
+  "adp": {
+    "localhost": "http://localhost:8080",
+    "dev": "https://adp-dev.foobar.com",
+    "uat": "https://adp-uat.foobar.com",
+    "test": "https://adp-test.foobar.com"
+  },
+  "core": {
+    "master": "https://dev.limelightbox.com",
+    "localhost": "http://localhost:8080",
+    "dev": "https://dev.limelightbox.com",
+    "uat": "https://dev.foobar.com",
+    "test": "https://test.limelightbox.com",
+    "qpe-uat": "https://qpe-uat.foobar.com"
+  },
+  "test": {
+    "master": "https://test-dev.foobar.com",
+    "localhost": "http://localhost:8080",
+    "dev": "https://test-dev.foobar.com",
+    "uat": "https://test-uat.foobar.com",
+    "test": "https://test-test.foobar.com",
+    "prod": "https://test.foobar.com"
+  },
+  "foobar": {
+    "master": "https://foobar-dev.foobar.com",
+    "localhost": "http://localhost:8080",
+    "dev": "https://foobar-dev.foobar.com",
+    "uat": "https://benefitsolutions.uat.foobar.com",
+    "test": "https://benefitsolutions.test.foobar.com",
+    "prod": "https://benefitsolutions.foobar.com",
+    "eng": "https://eng-pfg.foobar-eng.com"
+  },
+  "transamerica": {
+    "master": "https://dev.ta.foobar.com",
+    "localhost": "http://localhost:8080",
+    "dev": "https://dev.ta.foobar.com",
+    "test": "https://test.ta.foobar.com",
+    "uat": "https://uat.ta.foobar.com"
+  },
+  "cami": {
+    "master": "https://cami.foobar-eng.com"
+  }
+}

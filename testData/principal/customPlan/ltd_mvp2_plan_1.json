@@ -1,0 +1,41 @@
+{
+  "benefits": [
+    {
+      "slug": "contribution_type",
+      "type": "radio",
+      "value": "Contributory"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Group has current coverage and entered eligible census"
+    },
+    {
+      "slug": "maximum_benefit",
+      "type": "range",
+      "value": "$5,500"
+    },
+    {
+      "slug": "own_occupation_period",
+      "type": "select",
+      "value": "1 Year"
+    },
+    {
+      "slug": "mental_nervous_limitation",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "drug_alcohol_limitation",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Not Included"
+    }
+  ],
+  "product_line": "Long-Term Disability",
+  "plan_name": "Valid LTD MVP2 plan"
+}

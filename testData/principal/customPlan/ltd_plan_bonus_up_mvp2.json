@@ -1,0 +1,46 @@
+{
+  "benefits": [
+    {
+      "slug": "contribution_type",
+      "type": "radio",
+      "value": "Bonus Up"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Unknown"
+    },
+    {
+      "slug": "maximum_benefit",
+      "type": "range",
+      "value": "$4,000"
+    },
+    {
+      "slug": "elimination_period",
+      "type": "range",
+      "value": "365"
+    },
+    {
+      "slug": "own_occupation_period",
+      "type": "select",
+      "value": "1 Year"
+    },
+    {
+      "slug": "drug_alcohol_limitation",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "maximum_benefit_period",
+      "type": "select",
+      "value": "2 Year"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Graded"
+    }
+  ],
+  "product_line": "Long-Term Disability",
+  "plan_name": "Valid LTD MVP2 plan"
+}

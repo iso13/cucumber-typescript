@@ -1,0 +1,13 @@
+{
+  "quoteType": "pcr",
+  "benefitType": "Life",
+  "setFilters": "true",
+  "exchange": "Exchange II",
+  "package_name": "Aetna/Kaiser",
+  "line_name": "Medical",
+  "plans": [
+    {
+      "name": "Basic Life & AD&D $20K**26659"
+    }
+  ]
+}

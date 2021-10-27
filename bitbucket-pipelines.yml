@@ -1,0 +1,16 @@
+clone:
+  depth: full
+image: node:12
+pipelines:
+  branches:
+    master:
+      - step:
+          script:
+            - echo $SSH_PRIVATE_KEY > /tmp/git_deploy_key
+            - chmod 600 /tmp/git_deploy_key
+            - echo 'echo ""' > /tmp/askpass && chmod +x /tmp/askpass
+            - eval "$(ssh-agent -s)"
+            - DISPLAY=":0.0" SSH_ASKPASS="/tmp/askpass" setsid ssh-add /tmp/git_deploy_key </dev/null
+            - echo //registry.npmjs.org/:_authToken=${NPM_TOKEN} >> .npmrc
+            - npm i -g semantic-release @semantic-release/{git,commit-analyzer,release-notes-generator,changelog}
+            - npx semantic-release

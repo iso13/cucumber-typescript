@@ -1,0 +1,33 @@
+{
+  "name": "zzLLH - Valid Group",
+  "postal_code": "94040",
+  "sic": "3571",
+  "city": "LA",
+  "number_of_eligible_ees": "10",
+  "quote_lines": {
+    "1": {
+      "name": "Dental"
+    },
+    "2": {
+      "name": "Vision"
+    },
+    "3": {
+      "name": "Group Term Life"
+    },
+    "4": {
+      "name": "Critical Illness"
+    },
+    "7": {
+      "name": "Short-Term Disability"
+    },
+    "8": {
+      "name": "Long-Term Disability"
+    },
+    "9": {
+      "name": "Voluntary Term Life"
+    },
+    "11": {
+      "name": "Accident"
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "GTL": {
+    "gtl plan 1": {
+      "plan_benefits": [
+        {
+          "paramName": {
+            "cellRef": "A7",
+            "expectedValue": "Plan Name"
+          },
+          "paramValue": {
+            "cellRef": "B7",
+            "expectedValue": "Valid GTL plan",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A8",
+            "expectedValue": "Class"
+          },
+          "paramValue": {
+            "cellRef": "B8",
+            "assertionType": "isNotEmpty"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A9",
+            "expectedValue": "Life Coverage Type"
+          },
+          "paramValue": {
+            "cellRef": "B9",
+            "expectedValue": "Percent of Salary",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A10",
+            "expectedValue": "Percent of Salary"
+          },
+          "paramValue": {
+            "cellRef": "B10",
+            "expectedValue": "100%",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A11",
+            "expectedValue": "Percent of Salary Maximum"
+          },
+          "paramValue": {
+            "cellRef": "B11",
+            "expectedValue": "$50,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A12",
+            "expectedValue": "Percent of Salary Minimum"
+          },
+          "paramValue": {
+            "cellRef": "B12",
+            "expectedValue": "$10,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A13",
+            "expectedValue": "Guarantee Issue Under Age 70"
+          },
+          "paramValue": {
+            "cellRef": "B13",
+            "expectedValue": "$50,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A14",
+            "expectedValue": "Guarantee Issue Age 70+"
+          },
+          "paramValue": {
+            "cellRef": "B14",
+            "expectedValue": "$50,000",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A15",
+            "expectedValue": "Age Reduction"
+          },
+          "paramValue": {
+            "cellRef": "B15",
+            "expectedValue": "35% at Age 65 and an additional 15% at Age 70",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A16",
+            "expectedValue": "Waiver of Premium-Definition of Disability"
+          },
+          "paramValue": {
+            "cellRef": "B16",
+            "expectedValue": "Total Disability",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A17",
+            "expectedValue": "Waiver of Premium-Duration"
+          },
+          "paramValue": {
+            "cellRef": "B17",
+            "expectedValue": "To Age 65",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A18",
+            "expectedValue": "Waiver of Premium-Elimination Period"
+          },
+          "paramValue": {
+            "cellRef": "B18",
+            "expectedValue": "9 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A19",
+            "expectedValue": "AD&D Benefit"
+          },
+          "paramValue": {
+            "cellRef": "B19",
+            "expectedValue": "Occupational",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A20",
+            "expectedValue": "AD&D Standard Package"
+          },
+          "paramValue": {
+            "cellRef": "B20",
+            "expectedValue": "Included",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A21",
+            "expectedValue": "Rate Guarantee"
+          },
+          "paramValue": {
+            "cellRef": "B21",
+            "expectedValue": "24 Months",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A22",
+            "expectedValue": "Commission"
+          },
+          "paramValue": {
+            "cellRef": "B22",
+            "expectedValue": "Flat",
+            "assertionType": "strictEqual"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A23",
+            "expectedValue": "Commission Percent"
+          },
+          "paramValue": {
+            "cellRef": "B23",
+            "expectedValue": "10%",
+            "assertionType": "strictEqual"
+          }
+        }
+      ],
+      "calculated_params": [
+        {
+          "paramName": {
+            "cellRef": "A30",
+            "expectedValue": "Total Estimated Monthly Cost"
+          },
+          "paramValue": {
+            "cellRef": "B30",
+            "expectedPattern": "\\$(\\d{1,3},)*\\d{1,3}.\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A26",
+            "expectedValue": "Life Total Volume"
+          },
+          "paramValue": {
+            "cellRef": "B26",
+            "expectedPattern": "\\$(\\d{1,3},)*\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A27",
+            "expectedValue": "AD&D Total EE Volume"
+          },
+          "paramValue": {
+            "cellRef": "B27",
+            "expectedPattern": "\\$(\\d{1,3},)*\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A24",
+            "expectedValue": "Life Rate Per $1,000"
+          },
+          "paramValue": {
+            "cellRef": "B24",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A25",
+            "expectedValue": "AD&D Rate Per $1,000"
+          },
+          "paramValue": {
+            "cellRef": "B25",
+            "expectedPattern": "\\d+.\\d{1,3}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A28",
+            "expectedValue": "Life Total Lives"
+          },
+          "paramValue": {
+            "cellRef": "B28",
+            "expectedPattern": "\\d{2}",
+            "assertionType": "match"
+          }
+        },
+        {
+          "paramName": {
+            "cellRef": "A29",
+            "expectedValue": "AD&D Total Lives"
+          },
+          "paramValue": {
+            "cellRef": "B29",
+            "expectedPattern": "\\d{2}",
+            "assertionType": "match"
+          }
+        }
+      ]
+    }
+  }
+}

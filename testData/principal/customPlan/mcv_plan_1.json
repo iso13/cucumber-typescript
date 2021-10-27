@@ -1,0 +1,56 @@
+{
+  "benefits": [
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "No Prior Coverage"
+    },
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "exam_copay",
+      "type": "radio",
+      "value": "$10"
+    },
+    {
+      "slug": "exam_fqcy",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "materials_copay",
+      "type": "radio",
+      "value": "$25"
+    },
+    {
+      "slug": "lens_fqcy",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "frame_fqcy",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "frames_max_allowance",
+      "type": "radio",
+      "value": "$150"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "7%"
+    }
+  ],
+  "product_line": "Vision",
+  "plan_name": "Valid MCV plan"
+}

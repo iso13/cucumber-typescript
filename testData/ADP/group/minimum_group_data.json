@@ -1,0 +1,24 @@
+{
+  "default_effective_on": "2018-12-01T00:00:00.000Z",
+  "country": "US",
+  "name": "Required Fields Tests",
+  "postal_code": "94109",
+  "city": "San Francisco",
+  "medical_region_id": 4,
+  "region": "CA",
+  "county": "San Francisco",
+  "county_code": 75,
+  "payroll_frequency": "Monthly",
+  "quote_lines": {
+    "13": {
+      "name": "Medical",
+      "has_current": false,
+      "effective_on": "2018-12-01T00:00:00.000Z"
+    },
+    "1": {
+      "name": "Dental",
+      "has_current": true,
+      "effective_on": "2018-12-01T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "benefit_period",
+      "type": "radio",
+      "value": "12 Weeks"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "19%"
+    }
+  ],
+  "product_line": "Short-Term Disability",
+  "plan_name": "Valid STD plan"
+}

@@ -1,0 +1,17 @@
+{
+  "std plan voluntary graded com": {
+    "plan design benefits": {
+      "Effective Date": "^(Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.)\\s1,\\s20\\d{2}$",
+      "Voluntary": "^Yes$",
+      "Benefit Percent": "^70%$",
+      "Benefit Maximum": "^\\$1,500$",
+      "Accident Elimination Period": "^8 Days$",
+      "Sickness Elimination Period": "^8 Days$",
+      "Maximum Benefit Period": "^12 Weeks$"
+    },
+    "voluntary benefit values": {
+      "Lives": "^Determined Upon Enrollment$",
+      "Volume": "^Determined Upon Enrollment$"
+    }
+  }
+}

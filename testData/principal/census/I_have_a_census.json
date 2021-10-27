@@ -1,0 +1,13 @@
+{
+  "fileName": "i_have_a_census.xlsx",
+  "templateType": "Other Census",
+  "headerRow": "2",
+  "columnData": [],
+  "columnsToSkip": [
+    "Class Name",
+    "EE Supp. Or Vol. Life Benefit Volume",
+    "Spouse Supp. Or Vol",
+    "Child Supp. Or Vol. Life",
+    "EE Supp. Or Vol. Life Benefit Volume"
+  ]
+}

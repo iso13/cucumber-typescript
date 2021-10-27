@@ -1,0 +1,15 @@
+{
+  "name": "Current and Renewal Medical",
+  "productLine": "Medical",
+  "carriers": ["Health Net"],
+  "package": "",
+  "benefitFilters": {},
+  "plans": [
+    {
+      "name": "Health Net Bronze 60 HSP 6300/75 + Infertility"
+    },
+    {
+      "name": "Full Network HMO Silver $40 + Infertility"
+    }
+  ]
+}

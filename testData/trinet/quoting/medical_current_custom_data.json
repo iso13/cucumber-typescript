@@ -1,0 +1,21 @@
+{
+  "name": "Current and Renewal Medical",
+  "productLine": "Medical",
+  "carriers": ["Health Net"],
+  "package": "",
+  "benefitFilters": {},
+  "plans": [
+    {
+      "name": "Current Custom Plan",
+      "benefits": [],
+      "networkNameField": "Current Custom Plan",
+      "rates": {
+        "type": "fourTier",
+        "ageBanded": {},
+        "fourTier": ["100", "200", "300", "400"],
+        "threeTier": {}
+      },
+      "preset": "Bronze Preset"
+    }
+  ]
+}

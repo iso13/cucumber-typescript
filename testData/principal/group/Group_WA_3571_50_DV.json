@@ -1,0 +1,14 @@
+{
+  "name": "zzLLH - Group WA_3571_50_DV",
+  "postal_code": "98001",
+  "sic": "3571",
+  "number_of_eligible_ees": "50",
+  "quote_lines": {
+    "1": {
+      "name": "Dental"
+    },
+    "2": {
+      "name": "Vision"
+    }
+  }
+}

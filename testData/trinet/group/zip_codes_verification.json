@@ -1,0 +1,48 @@
+{
+  "90001": {
+    "county": "Los Angeles",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "95912": {
+    "county": "Colusa",
+    "city": "Arbuckle",
+    "state": "CA"
+  },
+  "94503": {
+    "county": "Napa",
+    "county1": "Solano",
+    "city": "American Canyon",
+    "state": "CA"
+  },
+  "24086": {
+    "county": "Giles",
+    "city": "Eggleston",
+    "state": "VA"
+  },
+  "22963": {
+    "county": "Fluvanna",
+    "city": "Palmyra",
+    "state": "VA"
+  },
+  "24069": {
+    "county": "Pittsylvania",
+    "city": "Cascade",
+    "state": "VA"
+  },
+  "79501": {
+    "county": "Jones",
+    "city": "Anson",
+    "state": "TX"
+  },
+  "75233": {
+    "county": "Dallas",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "20001": {
+    "county": "DISTRICT OF COLUMBIA",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "benefits": [
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "No Prior Coverage"
+    },
+    {
+      "slug": "benefit_percent",
+      "type": "select",
+      "value": "50%"
+    },
+    {
+      "slug": "accident_elimination_period",
+      "type": "radio",
+      "value": "15 Days"
+    },
+    {
+      "slug": "sickness_elimination_period",
+      "type": "radio",
+      "value": "15 Days"
+    },
+    {
+      "slug": "benefit_period",
+      "type": "radio",
+      "value": "11 Weeks"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "20%"
+    }
+  ],
+  "product_line": "Short-Term Disability",
+  "plan_name": "Valid STD MVP2 plan"
+}

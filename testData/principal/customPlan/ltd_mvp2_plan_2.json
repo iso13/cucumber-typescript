@@ -1,0 +1,46 @@
+{
+  "benefits": [
+    {
+      "slug": "contribution_type",
+      "type": "radio",
+      "value": "Voluntary"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "No Prior Coverage"
+    },
+    {
+      "slug": "maximum_benefit",
+      "type": "range",
+      "value": "$6,000"
+    },
+    {
+      "slug": "elimination_period",
+      "type": "range",
+      "value": "90"
+    },
+    {
+      "slug": "maximum_benefit_period",
+      "type": "select",
+      "value": "SSNRA"
+    },
+    {
+      "slug": "drug_alcohol_limitation",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    },
+    {
+      "slug": "commission_percent",
+      "type": "range",
+      "value": "15%"
+    }
+  ],
+  "product_line": "Long-Term Disability",
+  "plan_name": "Valid LTD MVP2 plan"
+}

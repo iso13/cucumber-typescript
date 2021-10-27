@@ -1,0 +1,14 @@
+[
+  {
+    "productLines": ["Critical Illness"],
+    "reason": "Plan/Benefit Design Not Available",
+    "code": "(NA) Plan/Benefit Design Not Available",
+    "note": "Product DTQ 1"
+  },
+  {
+    "productLines": ["Accident"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 2"
+  }
+]

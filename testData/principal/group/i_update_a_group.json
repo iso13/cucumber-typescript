@@ -1,0 +1,16 @@
+{
+  "postal_code": "22020",
+  "sic": "0723",
+  "number_of_eligible_ees": "14",
+  "quote_lines": {
+    "1": {
+      "name": "Dental"
+    },
+    "2": {
+      "name": "Vision"
+    },
+    "4": {
+      "name": "Critical Illness"
+    }
+  }
+}

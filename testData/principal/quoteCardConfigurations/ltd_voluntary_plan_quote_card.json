@@ -1,0 +1,30 @@
+{
+  "ltd voluntary plan": {
+    "plan design benefits": {
+      "Effective Date": "^(Jan.|Feb.|Mar.|Apr.|May|Jun.|Jul.|Aug.|Sep.|Oct.|Nov.|Dec.)\\s1,\\s20\\d{2}$",
+      "Voluntary": "^Yes$",
+      "Benefit Percent": "^60%$",
+      "Benefit Maximum": "^\\$6,000$",
+      "Elimination Period": "^90 Day$",
+      "Own Occupation Period": "^2 Years$",
+      "Maximum Benefit Period": "^To Age 65 \\(Reducing Benefit Duration-RBD\\)$"
+    },
+    "voluntary benefit values": {
+      "Lives": "^Determined Upon Enrollment$",
+      "Covered Monthly Earnings": "^Determined Upon Enrollment$"
+    },
+    "age-banded rate table": {
+      "<25": "^\\$\\d{1,2}.\\d{3}$",
+      "25-29": "^\\$\\d{1,2}.\\d{3}$",
+      "30-34": "^\\$\\d{1,2}.\\d{3}$",
+      "35-39": "^\\$\\d{1,2}.\\d{3}$",
+      "40-44": "^\\$\\d{1,2}.\\d{3}$",
+      "45-49": "^\\$\\d{1,2}.\\d{3}$",
+      "50-54": "^\\$\\d{1,2}.\\d{3}$",
+      "55-59": "^\\$\\d{1,2}.\\d{3}$",
+      "60-64": "^\\$\\d{1,2}.\\d{3}$",
+      "65-69": "^\\$\\d{1,2}.\\d{3}$",
+      "70 & Over": "^\\$\\d{1,2}.\\d{3}$"
+    }
+  }
+}

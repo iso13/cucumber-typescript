@@ -1,0 +1,67 @@
+{
+  "benefits": [
+    {
+      "slug": "contribution",
+      "type": "radio",
+      "value": "Contributory"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Group has current coverage and entered eligible census"
+    },
+    {
+      "slug": "life_coverage_type",
+      "type": "radio",
+      "value": "Percent of Salary"
+    },
+    {
+      "slug": "dependent_life",
+      "type": "radio",
+      "value": "Included"
+    },
+    {
+      "slug": "spouse_benefit",
+      "type": "select",
+      "value": "$2,000",
+      "label": "Spouse Benefit"
+    },
+    {
+      "slug": "child_benefit",
+      "type": "select",
+      "value": "$2,000",
+      "label": "Child Benefit"
+    },
+    {
+      "slug": "age_reduction",
+      "type": "select",
+      "value": "35% at age 65",
+      "label": "Age Reduction"
+    },
+    {
+      "slug": "waiver_defn_of_disability",
+      "type": "radio",
+      "value": "Total Disability or ADL"
+    },
+    {
+      "slug": "waiver_duration",
+      "type": "radio",
+      "value": "To Age 70"
+    },
+    {
+      "slug": "waiver_elimination_period",
+      "type": "radio",
+      "value": "12 Months"
+    },
+    {
+      "slug": "add_benefit",
+      "type": "radio",
+      "value": "Non Occupational"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Flat"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "Yes"
+    },
+    {
+      "slug": "prior_voluntary",
+      "type": "radio",
+      "value": "No"
+    }
+  ],
+  "product_line": "Dental",
+  "presetName": "5. 100/80/50 $1500, 90th, Max Accum",
+  "plan_name": "Dental Plan Voluntary"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Dental Quote",
+  "productLine": "Voluntary Life",
+  "plans": [
+    {
+      "name": "Voluntary Life Plan 1"
+    }
+  ]
+}

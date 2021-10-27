@@ -1,0 +1,22 @@
+{
+  "broker_selection": true,
+  "broker_name": "parent_broker",
+  "name": "zzLLH - Valid Group",
+  "sic": "7371",
+  "postal_code": "35005",
+  "address": "Automation Street",
+  "address_2": "Lane 2",
+  "number_of_eligible_ees": "10",
+  "quote_lines": {
+    "4": {
+      "name": "Critical Events"
+    },
+    "11": {
+      "name": "Accident Advance"
+    },
+    "5": {
+      "name": "Hospital Select"
+    }
+  },
+  "presenterAddress": "Presenter Street"
+}

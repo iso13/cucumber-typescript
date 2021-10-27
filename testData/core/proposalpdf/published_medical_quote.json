@@ -1,0 +1,146 @@
+{
+  "standard-medical-sbs": {
+    "benefits": {
+      "plan-network-size-and-name": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "Fully Insured"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "Fully Insured"
+          }
+        }
+      },
+      "plan-deductible": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$6,000 / Not Covered"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$0 / Not Covered"
+          }
+        }
+      },
+      "plan-deductible-fam": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$12,000 / Not Covered"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$0 / Not Covered"
+          }
+        }
+      },
+      "plan-out-of-pocket": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$7,900 / Not Covered"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$7,200 / Not Covered"
+          }
+        }
+      },
+      "plan-out-of-pocket-fam": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$15,800 / Not Covered"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$14,400 / Not Covered"
+          }
+        }
+      },
+      "plan-co-insurance": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "50% / Not Covered"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "0% / Not Covered"
+          }
+        }
+      },
+      "plan-doctor-visits": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$70 (ded waived) / $115 (ded waived)"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$30 / $55"
+          }
+        }
+      },
+      "plan-lab-x-ray": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$125 (ded waived)"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$35/$55"
+          }
+        }
+      },
+      "plan-emergency-visit": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "50% after ded"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$325"
+          }
+        }
+      },
+      "plan-urgent-visit": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$100 (ded waived)"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$30"
+          }
+        }
+      },
+      "plan-outpatient": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$800 after ded / $0 after ded"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$300 / $40"
+          }
+        }
+      },
+      "plan-inpatient": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$500/day after ded; days 1-4"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$600/day; days 1-5"
+          }
+        }
+      },
+      "plan-rx-deductible": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$1,850"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "Integrated Med/Rx"
+          }
+        }
+      },
+      "plan-prescriptions": {
+        "published-medical-quote": {
+          "hmo-basic-bronze-ca-70-115-6000-ded": {
+            "value": "$25 (Rx ded waived) / $150 after Rx ded / $180 after Rx ded / 50% after Rx ded; $500 max"
+          },
+          "aetna-value-network-hmo-gold-ca-30-55-0-ded": {
+            "value": "$15 / $55 / $75 / 20%; $250 max"
+          }
+        }
+      }
+    }
+  }
+}

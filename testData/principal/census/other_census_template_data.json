@@ -1,0 +1,68 @@
+{
+  "fileName": "OtherCensusFile.xls",
+  "templateType": "Other Census",
+  "headerRow": "2",
+  "columnData": [
+    {
+      "columnName": "Date of Birth",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "columnName": "Dental Coverage",
+      "mappingKey": "dental election",
+      "tierMappings": [
+        {
+          "tierCode": "CS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "EC1",
+          "mapToValue": "EC2"
+        },
+        {
+          "tierCode": "CD",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WD",
+          "mapToValue": "WE"
+        }
+      ]
+    },
+    {
+      "columnName": "Vision Coverage",
+      "mappingKey": "vision election",
+      "tierMappings": [
+        {
+          "tierCode": "WS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WD",
+          "mapToValue": "WE"
+        }
+      ]
+    }
+  ],
+  "columnsToSkip": [
+    "Employee Zip",
+    "Medical Coverage",
+    "Employment Status",
+    "Job Title",
+    "Occupation Specialty",
+    "Occupation",
+    "Class Name",
+    "Retiree",
+    "Smoker",
+    "Date of Hire",
+    "EE Supp. Or Vol. Life",
+    "Spouse Supp. Or Vol.",
+    "Child Supp. Or Vol. Life",
+    "STD Voluntary",
+    "LTD Voluntary"
+  ]
+}

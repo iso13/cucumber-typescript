@@ -1,0 +1,66 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "network_plan_type",
+      "type": "radio",
+      "value": "PPO Dental-Unscheduled/UCR"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Preventive Only"
+    },
+    {
+      "slug": "ortho",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "dhmo",
+      "type": "radio",
+      "value": "DHMO Other"
+    },
+    {
+      "slug": "family_deductible",
+      "type": "radio",
+      "value": "2x"
+    },
+    {
+      "slug": "preventive_ded_in_network",
+      "type": "range",
+      "value": "$25"
+    },
+    {
+      "slug": "basic_ded_in_network",
+      "type": "range",
+      "value": "$75"
+    },
+    {
+      "slug": "major_ded_in_network",
+      "type": "range",
+      "value": "$75"
+    },
+    {
+      "slug": "preventive_ded_non_network",
+      "type": "range",
+      "value": "$50"
+    },
+    {
+      "slug": "basic_ded_non_network",
+      "type": "range",
+      "value": "$100"
+    },
+    {
+      "slug": "major_ded_non_network",
+      "type": "range",
+      "value": "$100"
+    }
+  ],
+  "product_line": "Dental",
+  "plan_name": "Valid Dental plan"
+}

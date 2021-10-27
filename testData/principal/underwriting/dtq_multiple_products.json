@@ -1,0 +1,16 @@
+[
+  {
+    "productLines": ["Accident", "Critical Illness"],
+    "reason": "Quote Turnaround (could not meet deadline requested)",
+    "code": "(QT) Quote Turnaround (could not meet deadline requested)",
+    "note": "Product declined to quote due to quote turnaround",
+    "nonDeclinedProducts": [
+      "Vision",
+      "Group Term Life",
+      "Short-Term Disability",
+      "Long-Term Disability",
+      "Voluntary Term Life",
+      "Dental"
+    ]
+  }
+]

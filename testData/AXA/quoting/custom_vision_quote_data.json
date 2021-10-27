@@ -1,0 +1,9 @@
+{
+  "name": "Vision Quote",
+  "productLine": "Vision",
+  "plans": [
+    {
+      "name": "Vision Plan 1"
+    }
+  ]
+}

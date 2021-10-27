@@ -1,0 +1,21 @@
+{
+  "benefits": [
+    {
+      "slug": "wellness",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "hsa_compatibility",
+      "type": "radio",
+      "value": "Included"
+    },
+    {
+      "slug": "commission_type",
+      "type": "radio",
+      "value": "Heaped"
+    }
+  ],
+  "product_line": "Critical Illness",
+  "plan_name": "Valid CI plan heaped"
+}

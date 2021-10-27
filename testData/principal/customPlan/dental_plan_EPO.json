@@ -1,0 +1,51 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "network_plan_type",
+      "type": "radio",
+      "value": "EPO"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Preventive Only"
+    },
+    {
+      "slug": "ortho",
+      "type": "radio",
+      "value": "Not Included"
+    },
+    {
+      "slug": "dhmo",
+      "type": "radio",
+      "value": "DHMO Other"
+    },
+    {
+      "slug": "family_deductible",
+      "type": "radio",
+      "value": "2x"
+    },
+    {
+      "slug": "preventive_coins_epo",
+      "type": "range",
+      "value": "70%"
+    },
+    {
+      "slug": "basic_coins_epo",
+      "type": "range",
+      "value": "90%"
+    },
+    {
+      "slug": "major_coins_epo",
+      "type": "range",
+      "value": "60%"
+    }
+  ],
+  "product_line": "Dental",
+  "plan_name": "Valid Dental EPO plan"
+}

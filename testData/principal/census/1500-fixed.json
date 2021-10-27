@@ -1,0 +1,11 @@
+{
+  "fileName": "1500-fixed.csv",
+  "templateType": "Other Census",
+  "headerRow": "1",
+  "columnData": [
+    {
+      "columnName": "Date of Birth",
+      "format": "MM/DD/YYYY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "default_effective_on": "2019-01-01T00:00:00.000Z",
+  "name": "Created group A",
+  "postal_code": "94109",
+  "sic": "0111",
+  "sic_description": "wheat",
+  "group_type": "prospect",
+  "quote_lines": {
+    "1": {
+      "name": "Dental",
+      "has_current": true,
+      "effective_on": "2019-01-01T00:00:00.000Z"
+    },
+    "2": {
+      "name": "Vision",
+      "has_current": true,
+      "effective_on": "2019-01-01T00:00:00.000Z"
+    },
+    "3": {
+      "name": "Life",
+      "has_current": true,
+      "effective_on": "2019-01-01T00:00:00.000Z"
+    },
+    "13": {
+      "name": "Medical",
+      "has_current": true,
+      "effective_on": "2019-01-01T00:00:00.000Z"
+    }
+  }
+}

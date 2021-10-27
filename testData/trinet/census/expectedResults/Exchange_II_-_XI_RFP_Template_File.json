@@ -1,0 +1,68 @@
+[
+  {
+    "_firstName": "New_check1",
+    "_lastName": "EE",
+    "_gender": "M",
+    "_dateOfBirth": "11/26/1965",
+    "_zip": "33109",
+    "_medicalTier": "Employee",
+    "_dentalTier": "Employee",
+    "_visionTier": "Employee",
+    "_salary": 45000
+  },
+  {
+    "_firstName": "New_check2",
+    "_lastName": "ES",
+    "_gender": "M",
+    "_dateOfBirth": "02/27/1962",
+    "_zip": "10001",
+    "_medicalTier": "Employee + Spouse",
+    "_dentalTier": "Employee + Spouse",
+    "_visionTier": "Employee + Spouse",
+    "_salary": 45000
+  },
+  {
+    "_firstName": "New_check3",
+    "_lastName": "EC",
+    "_gender": "F",
+    "_dateOfBirth": "04/28/1961",
+    "_zip": "94027",
+    "_medicalTier": "Employee + Child",
+    "_dentalTier": "Employee + Child",
+    "_visionTier": "Employee + Child",
+    "_salary": 75000
+  },
+  {
+    "_firstName": "New_check4",
+    "_lastName": "EF",
+    "_gender": "M",
+    "_dateOfBirth": "01/29/1965",
+    "_zip": "94301",
+    "_medicalTier": "Family",
+    "_dentalTier": "Family",
+    "_visionTier": "Family",
+    "_salary": 35000
+  },
+  {
+    "_firstName": "New_check5",
+    "_lastName": "WE",
+    "_gender": "M",
+    "_dateOfBirth": "04/30/1985",
+    "_zip": "80201",
+    "_medicalTier": "Waiving Employee",
+    "_dentalTier": "Waiving Employee",
+    "_visionTier": "Waiving Employee",
+    "_salary": 25000
+  },
+  {
+    "_firstName": "New_check6",
+    "_lastName": "NE",
+    "_gender": "M",
+    "_dateOfBirth": "05/01/1965",
+    "_zip": "96801",
+    "_medicalTier": "Non-eligible Employee",
+    "_dentalTier": "Non-eligible Employee",
+    "_visionTier": "Non-eligible Employee",
+    "_salary": 45000
+  }
+]

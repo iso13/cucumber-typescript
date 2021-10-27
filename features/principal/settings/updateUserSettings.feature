@@ -1,0 +1,10 @@
+@principal @settings @updateUserSettings @wip
+Feature: Update User Settings
+  As a Requester
+  I want the ability to update my user settings
+  So that I can reconfigure my account details
+
+  @critical
+  Scenario: Reset password
+
+  Scenario: Update contact settings

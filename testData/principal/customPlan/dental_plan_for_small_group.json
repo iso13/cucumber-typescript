@@ -1,0 +1,17 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Preventive Only"
+    }
+  ],
+  "product_line": "Dental",
+  "presetName": "1. 100/80/50 $1000, 90th, Max Accum",
+  "plan_name": "Dental Plan for small group"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "productLines": ["Dental"],
+    "reason": "Plan/Benefit Design Not Available",
+    "code": "(NA) Plan/Benefit Design Not Available",
+    "note": "Product DTQ 1"
+  },
+  {
+    "productLines": ["Vision"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 2"
+  },
+  {
+    "productLines": ["Group Term Life"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 3"
+  },
+  {
+    "productLines": ["Critical Illness"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 4"
+  },
+  {
+    "productLines": ["Short-Term Disability"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 5"
+  },
+  {
+    "productLines": ["Long-Term Disability"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 6"
+  },
+  {
+    "productLines": ["Voluntary Term Life"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 7"
+  },
+  {
+    "productLines": ["Accident"],
+    "reason": "Incomplete Submission",
+    "code": "(IS) Incomplete Submission",
+    "note": "Product DTQ 8"
+  }
+]

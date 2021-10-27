@@ -1,0 +1,80 @@
+{
+  "fileName": "Other_15EEs_noCl_MDV.xls",
+  "templateType": "Other Census",
+  "headerRow": "2",
+  "columnData": [
+    {
+      "columnName": "Date of Birth",
+      "format": "MM/DD/YYYY"
+    },
+    {
+      "columnName": "Dental Election",
+      "mappingKey": "dental election",
+      "tierMappings": [
+        {
+          "tierCode": "EE"
+        },
+        {
+          "tierCode": "ES"
+        },
+        {
+          "tierCode": "CS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "EC1",
+          "mapToValue": "EC2"
+        },
+        {
+          "tierCode": "CD",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "EC2"
+        },
+        {
+          "tierCode": "EF"
+        },
+        {
+          "tierCode": "EC",
+          "mapToValue": "EC2"
+        },
+        {
+          "tierCode": "WE"
+        },
+        {
+          "tierCode": "WS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WD",
+          "mapToValue": "WE"
+        }
+      ]
+    },
+    {
+      "columnName": "Vision Election",
+      "mappingKey": "vision election",
+      "tierMappings": [
+        {
+          "tierCode": "EE"
+        },
+        {
+          "tierCode": "ES"
+        },
+        {
+          "tierCode": "WS",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WD",
+          "mapToValue": "WE"
+        },
+        {
+          "tierCode": "WE"
+        }
+      ]
+    }
+  ],
+  "columnsToSkip": ["Employee Zip", "Medical Coverage", "Employment Status"]
+}

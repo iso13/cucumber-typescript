@@ -1,0 +1,17 @@
+{
+  "benefits": [
+    {
+      "slug": "voluntary",
+      "type": "radio",
+      "value": "No"
+    },
+    {
+      "slug": "prior_coverage",
+      "type": "radio",
+      "value": "Preventive Only"
+    }
+  ],
+  "product_line": "Dental",
+  "presetName": "EPO: 100/80/50, $1500",
+  "plan_name": "Dental Plan EPO 100 80 50"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Published Medical Quote II",
+  "productLine": "Medical",
+  "exchange": "Exchange II",
+  "package": "Aetna/Kaiser",
+  "plans": [
+    {
+      "name": "TriNet Exchange II Aetna HMO 0 North CA"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HMO 1000 North CA"
+    },
+    {
+      "name": "TriNet Exchange II Aetna ACO 6500 CO"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HMO HDHP 5000 North NC"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HMO HDHP 5000 SC"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HMO HDHP 5000 South FL"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HNO 1500 KS"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HNO 1500 North NC"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HNO 1500 SC"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HDHP 2700 NV"
+    },
+    {
+      "name": "TriNet Exchange II Aetna HDHP 2700 Tri-state"
+    },
+    {
+      "name": "TriNet Exchange II Kaiser Permanente POS 15 HI"
+    }
+  ]
+}

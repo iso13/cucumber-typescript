@@ -1,0 +1,17 @@
+.idea/
+testImages/actual/
+testImages/diff/
+typeScript/
+dist/
+reports/
+node_modules/
+npm-debug.log
+.DS_Store
+.history/
+.vscode/
+users.json
+testData/data/generated/
+testData/downloads/*
+dist/
+*.xml
+docker/zalenium/videos

@@ -1,0 +1,68 @@
+[
+  {
+    "_firstName": "James",
+    "_lastName": "Rhodes",
+    "_gender": "M",
+    "_dateOfBirth": "01/01/1975",
+    "_zip": "92618",
+    "_medicalTier": "Waiving Employee",
+    "_dentalTier": "Waiving Employee",
+    "_visionTier": "Waiving Employee",
+    "_salary": 120000
+  },
+  {
+    "_firstName": "Kevin",
+    "_lastName": "Not-Kong",
+    "_gender": "M",
+    "_dateOfBirth": "07/13/1986",
+    "_zip": "92618",
+    "_medicalTier": "Employee + Child",
+    "_dentalTier": "Employee + Child",
+    "_visionTier": "Employee + Child",
+    "_salary": 40000
+  },
+  {
+    "_firstName": "Kevin2",
+    "_lastName": "Not-Kong",
+    "_gender": "M",
+    "_dateOfBirth": "07/13/1986",
+    "_zip": "92618",
+    "_medicalTier": "Family",
+    "_dentalTier": "Family",
+    "_visionTier": "Family",
+    "_salary": 40000
+  },
+  {
+    "_firstName": "Natasha",
+    "_lastName": "Romanova",
+    "_gender": "F",
+    "_dateOfBirth": "01/01/1980",
+    "_zip": "92618",
+    "_medicalTier": "Employee + Spouse",
+    "_dentalTier": "Employee + Spouse",
+    "_visionTier": "Employee + Spouse",
+    "_salary": 90000
+  },
+  {
+    "_firstName": "Peter",
+    "_lastName": "Parker",
+    "_gender": "M",
+    "_dateOfBirth": "01/01/1990",
+    "_zip": "92618",
+    "_medicalTier": "Non-eligible Employee",
+    "_dentalTier": "Non-eligible Employee",
+    "_visionTier": "Non-eligible Employee",
+    "_salary": 60000
+  },
+  {
+    "_firstName": "Tony",
+    "_lastName": "Stark",
+    "_gender": "M",
+    "_dateOfBirth": "01/01/1970",
+    "_zip": "92618",
+    "_medicalTier": "Employee",
+    "_dentalTier": "Employee",
+    "_visionTier": "Employee",
+    "_salary": 200000
+  }
+]
